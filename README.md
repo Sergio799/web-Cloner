@@ -1,4 +1,4 @@
-# Website Cloner...
+# Website Cloner
 
 A powerful web application that allows you to clone any website's HTML, CSS, and structure using AI. Built with FastAPI backend and Next.js frontend.
 
